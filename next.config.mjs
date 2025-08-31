@@ -2,10 +2,11 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
+    dangerouslyAllowSVG: true,
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'via.placeholder.com', // Ejemplo, ajusta según tus necesidades
+        hostname: 'placehold.co', // Ejemplo, ajusta según tus necesidades
       },
       {
         protocol: 'https',

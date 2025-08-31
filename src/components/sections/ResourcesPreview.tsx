@@ -9,7 +9,7 @@ export function ResourcesPreview() {
     {
       title: "IA para la fabricación: guía de casos de uso",
       description: "Cada minuto de inactividad no planificada cuesta a los fabricantes miles de dólares. Sin embargo, la mayoría de los equipos siguen volando a ciegas cuando se trata de mantenimiento predictivo.",
-      image: "https://via.placeholder.com/300x200/007bff/ffffff?text=Manufacturing+AI", // Placeholder
+      image: "https://placehold.co/300x200/007bff/ffffff?text=Manufacturing+AI", // Placeholder
       link: "/blog/manufacturing-ai-use-cases",
       date: "21 de agosto de 2025",
       category: "fabricación",
@@ -17,7 +17,7 @@ export function ResourcesPreview() {
     {
       title: "Gobernanza de la IA activa: 4 criterios para evaluar herramientas",
       description: "Escalando la IA. Indicaciones inquietantes para evaluar el sesgo en las tareas de LLM.",
-      image: "https://via.placeholder.com/300x200/28a745/ffffff?text=AI+Governance", // Placeholder
+      image: "https://placehold.co/300x200/28a745/ffffff?text=AI+Governance", // Placeholder
       link: "/blog/ai-governance-criteria",
       date: "19 de agosto de 2025",
       category: "Escalando la IA",
@@ -25,7 +25,7 @@ export function ResourcesPreview() {
     {
       title: "IA para análisis de marketing: su guía para la hiperpersonalización",
       description: "Comercializadores en una computadora. IA agente gobernante.",
-      image: "https://via.placeholder.com/300x200/ffc107/ffffff?text=Marketing+AI", // Placeholder
+      image: "https://placehold.co/300x200/ffc107/ffffff?text=Marketing+AI", // Placeholder
       link: "/blog/marketing-ai-hyperpersonalization",
       date: "15 de agosto de 2025",
       category: "Casos de uso y proyectos",

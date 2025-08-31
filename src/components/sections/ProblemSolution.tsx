@@ -47,7 +47,7 @@ export function ProblemSolution() {
         <div className="relative h-[300px] w-full lg:h-[450px] xl:h-[600px] flex items-center justify-center">
           {/* Ilustración que muestre la complejidad resuelta */}
           <Image
-            src="/images/problem-solution.svg" // Nueva imagen
+            src="/images/robot3.svg" // Nueva imagen
             width={500}
             height={500}
             alt="Problem Solution Illustration"

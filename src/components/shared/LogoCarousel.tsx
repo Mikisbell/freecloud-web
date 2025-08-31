@@ -55,6 +55,7 @@ export function LogoCarousel({ logos }: LogoCarouselProps) {
                 alt={`Cliente ${index + 1}`}
                 width={150} // Aumentar el ancho para que los logos sean más visibles
                 height={75} // Aumentar la altura
+                style={{ height: 'auto' }}
                 className="object-contain grayscale hover:grayscale-0 transition-all duration-300"
               />
             </div>

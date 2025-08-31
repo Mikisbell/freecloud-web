@@ -8,7 +8,11 @@
     "start": "next start",
     "lint": "next lint",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "prepare": "husky install",
+    "generate-favicons": "node scripts/generate-favicons.js",
+    "regenerate-favicon": "node scripts/regenerate-favicon.js"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
@@ -44,6 +48,7 @@
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.7.0",
     "postcss": "^8",
+    "sharp": "^0.33.5",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   }
